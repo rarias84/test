@@ -7,7 +7,7 @@
           "price": 1.500,
           "discount": 1.000,
           "quantity":0,
-          "thumb":""
+          "thumb":"a1"
         },
         { 
           "id": 1, 
@@ -15,7 +15,7 @@
           "price": 1.400,
           "discount": 1.000,
           "quantity":0,
-          "thumb":""
+          "thumb":"a2"
         },
         { 
           "id": 1, 
@@ -23,7 +23,7 @@
           "price": 1.300,
           "discount": 1.000,
           "quantity":0,
-          "thumb":""
+          "thumb":"a3"
         },
         { 
           "id": 1, 
@@ -31,7 +31,7 @@
           "price": 1.200,
           "discount": 1.000,
           "quantity":0,
-          "thumb":""
+          "thumb":"a1"
         }
       ] 
     },
@@ -42,7 +42,7 @@
           "price": 1.200,
           "discount": 1.000,
           "quantity":0,
-          "thumb":""
+          "thumb":"b1"
         },
         { 
           "id": 1, 
@@ -50,7 +50,7 @@
           "price": 1.200,
           "discount": 1.000,
           "quantity":0,
-          "thumb":""
+          "thumb":"b2"
         },
         { 
           "id": 1, 
@@ -58,7 +58,7 @@
           "price": 1.500,
           "discount": 1.000,
           "quantity":0,
-          "thumb":""
+          "thumb":"b3"
         },
         { 
           "id": 1, 
@@ -66,7 +66,7 @@
           "price": 1.500,
           "discount": 1.000,
           "quantity":0,
-          "thumb":""
+          "thumb":"b1"
         }
       ] 
     },
@@ -77,7 +77,7 @@
           "price": 1.300,
           "discount": 1.000,
           "quantity":0,
-          "thumb":""
+          "thumb":"h1"
         },
         { 
           "id": 1, 
@@ -85,7 +85,7 @@
           "price": 1.500,
           "discount": 1.000,
           "quantity":0,
-          "thumb":""
+          "thumb":"h2"
         },
         { 
           "id": 1, 
@@ -93,7 +93,7 @@
           "price": 2.500,
           "discount": 1.000,
           "quantity":0,
-          "thumb":""
+          "thumb":"h3"
         }
       ] 
     },
@@ -104,7 +104,7 @@
           "price": 1.200,
           "discount": 1.000,
           "quantity":0,
-          "thumb":""
+          "thumb":"o1"
         },
         { 
           "id": 1, 
@@ -112,7 +112,7 @@
           "price": 1.500,
           "discount": 1.000,
           "quantity":0,
-          "thumb":""
+          "thumb":"o2"
         },
         { 
           "id": 1, 
@@ -120,7 +120,7 @@
           "price": 3.500,
           "discount": 1.500,
           "quantity":0,
-          "thumb":""
+          "thumb":"o3"
         }
       ] 
     }
