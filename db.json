@@ -1,0 +1,128 @@
+{
+  "Item": [
+    { "Adulto" : [
+        { 
+          "id": 1, 
+          "title": "Pantalon",
+          "price": 1.500,
+          "discount": 1.000,
+          "quantity":0,
+          "thumb":""
+        },
+        { 
+          "id": 1, 
+          "title": "Polera",
+          "price": 1.400,
+          "discount": 1.000,
+          "quantity":0,
+          "thumb":""
+        },
+        { 
+          "id": 1, 
+          "title": "Camisa",
+          "price": 1.300,
+          "discount": 1.000,
+          "quantity":0,
+          "thumb":""
+        },
+        { 
+          "id": 1, 
+          "title": "Short",
+          "price": 1.200,
+          "discount": 1.000,
+          "quantity":0,
+          "thumb":""
+        }
+      ] 
+    },
+    { "Niño" : [
+        { 
+          "id": 1, 
+          "title": "Polera",
+          "price": 1.200,
+          "discount": 1.000,
+          "quantity":0,
+          "thumb":""
+        },
+        { 
+          "id": 1, 
+          "title": "Camisa",
+          "price": 1.200,
+          "discount": 1.000,
+          "quantity":0,
+          "thumb":""
+        },
+        { 
+          "id": 1, 
+          "title": "Pantalon",
+          "price": 1.500,
+          "discount": 1.000,
+          "quantity":0,
+          "thumb":""
+        },
+        { 
+          "id": 1, 
+          "title": "Sueter",
+          "price": 1.500,
+          "discount": 1.000,
+          "quantity":0,
+          "thumb":""
+        }
+      ] 
+    },
+    { "Hogar" : [
+        { 
+          "id": 1, 
+          "title": "Mantel",
+          "price": 1.300,
+          "discount": 1.000,
+          "quantity":0,
+          "thumb":""
+        },
+        { 
+          "id": 1, 
+          "title": "Toalla",
+          "price": 1.500,
+          "discount": 1.000,
+          "quantity":0,
+          "thumb":""
+        },
+        { 
+          "id": 1, 
+          "title": "Alfombra",
+          "price": 2.500,
+          "discount": 1.000,
+          "quantity":0,
+          "thumb":""
+        }
+      ] 
+    },
+    { "Otros" : [
+        { 
+          "id": 1, 
+          "title": "Corbata",
+          "price": 1.200,
+          "discount": 1.000,
+          "quantity":0,
+          "thumb":""
+        },
+        { 
+          "id": 1, 
+          "title": "Cortina",
+          "price": 1.500,
+          "discount": 1.000,
+          "quantity":0,
+          "thumb":""
+        },
+        { 
+          "id": 1, 
+          "title": "Alfombra",
+          "price": 3.500,
+          "discount": 1.500,
+          "quantity":0,
+          "thumb":""
+        }
+      ] 
+    }
+  ]
+}
