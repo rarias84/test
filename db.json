@@ -1,128 +1,70 @@
 {
-  "Item": [
-    { "Adulto" : [
-        { 
-          "id": 1, 
-          "title": "Pantalon",
-          "price": 1.500,
-          "discount": 1.000,
-          "quantity":0,
-          "thumb":"a1"
+  "categories": [
+        {
+            "id": 2,
+            "name": "Niño",
+            "slug": "nino",
+            "position": 1
         },
-        { 
-          "id": 1, 
-          "title": "Polera",
-          "price": 1.400,
-          "discount": 1.000,
-          "quantity":0,
-          "thumb":"a2"
+        {
+            "id": 3,
+            "name": "Hogar",
+            "slug": "hogar",
+            "position": 2
         },
-        { 
-          "id": 1, 
-          "title": "Camisa",
-          "price": 1.300,
-          "discount": 1.000,
-          "quantity":0,
-          "thumb":"a3"
+        {
+            "id": 4,
+            "name": "Otro",
+            "slug": "otro",
+            "position": 3
         },
-        { 
-          "id": 1, 
-          "title": "Short",
-          "price": 1.200,
-          "discount": 1.000,
-          "quantity":0,
-          "thumb":"a1"
+        {
+            "id": 1,
+            "name": "Adultos",
+            "slug": "adultos",
+            "position": 4
         }
-      ] 
-    },
-    { "Niño" : [
-        { 
-          "id": 1, 
-          "title": "Polera",
-          "price": 1.200,
-          "discount": 1.000,
-          "quantity":0,
-          "thumb":"b1"
+    ],
+  "products": [
+        {
+            "id": 1,
+            "category_id": 1,
+            "name": "Camisa",
+            "price": 1000,
+            "discount": null,
+            "discount_price": null,
+            "available": true,
+            "position": 1
         },
-        { 
-          "id": 1, 
-          "title": "Camisa",
-          "price": 1.200,
-          "discount": 1.000,
-          "quantity":0,
-          "thumb":"b2"
+        {
+            "id": 2,
+            "category_id": 1,
+            "name": "Polera",
+            "price": 800,
+            "discount": "10.0",
+            "discount_price": 720,
+            "available": true,
+            "position": 2
         },
-        { 
-          "id": 1, 
-          "title": "Pantalon",
-          "price": 1.500,
-          "discount": 1.000,
-          "quantity":0,
-          "thumb":"b3"
+        {
+            "id": 3,
+            "category_id": 1,
+            "name": "Jeans",
+            "price": 1200,
+            "discount": null,
+            "discount_price": null,
+            "available": true,
+            "position": 3
         },
-        { 
-          "id": 1, 
-          "title": "Sueter",
-          "price": 1.500,
-          "discount": 1.000,
-          "quantity":0,
-          "thumb":"b1"
+        {
+            "id": 4,
+            "category_id": 1,
+            "name": "Pack x5 Camisas",
+            "price": 5000,
+            "discount": "25.0",
+            "discount_price": 3750,
+            "available": true,
+            "position": 4
         }
-      ] 
-    },
-    { "Hogar" : [
-        { 
-          "id": 1, 
-          "title": "Mantel",
-          "price": 1.300,
-          "discount": 1.000,
-          "quantity":0,
-          "thumb":"h1"
-        },
-        { 
-          "id": 1, 
-          "title": "Toalla",
-          "price": 1.500,
-          "discount": 1.000,
-          "quantity":0,
-          "thumb":"h2"
-        },
-        { 
-          "id": 1, 
-          "title": "Alfombra",
-          "price": 2.500,
-          "discount": 1.000,
-          "quantity":0,
-          "thumb":"h3"
-        }
-      ] 
-    },
-    { "Otros" : [
-        { 
-          "id": 1, 
-          "title": "Corbata",
-          "price": 1.200,
-          "discount": 1.000,
-          "quantity":0,
-          "thumb":"o1"
-        },
-        { 
-          "id": 1, 
-          "title": "Cortina",
-          "price": 1.500,
-          "discount": 1.000,
-          "quantity":0,
-          "thumb":"o2"
-        },
-        { 
-          "id": 1, 
-          "title": "Alfombra",
-          "price": 3.500,
-          "discount": 1.500,
-          "quantity":0,
-          "thumb":"o3"
-        }
-      ] 
-    }
-  ]
+    ]
 }
