@@ -4,25 +4,29 @@
             "id": 2,
             "name": "Niño",
             "slug": "nino",
-            "position": 1
+            "position": 1,
+            "icon":""
         },
         {
             "id": 3,
             "name": "Hogar",
             "slug": "hogar",
-            "position": 2
+            "position": 2,
+            "icon":""
         },
         {
             "id": 4,
             "name": "Otro",
             "slug": "otro",
-            "position": 3
+            "position": 3,
+            "icon":""
         },
         {
             "id": 1,
             "name": "Adultos",
             "slug": "adultos",
-            "position": 4
+            "position": 4,
+            "icon":""
         }
     ],
   "products": [
@@ -34,7 +38,8 @@
             "discount": null,
             "discount_price": null,
             "available": true,
-            "position": 1
+            "position": 1,
+            "thumb":"a1"
         },
         {
             "id": 2,
@@ -44,7 +49,8 @@
             "discount": "10.0",
             "discount_price": 720,
             "available": true,
-            "position": 2
+            "position": 2,
+            "thumb":"a2"
         },
         {
             "id": 3,
@@ -54,7 +60,8 @@
             "discount": null,
             "discount_price": null,
             "available": true,
-            "position": 3
+            "position": 3,
+            "thumb":"a3"
         },
         {
             "id": 4,
@@ -64,7 +71,8 @@
             "discount": "25.0",
             "discount_price": 3750,
             "available": true,
-            "position": 4
+            "position": 4,
+            "thumb":"a1"
         }
     ]
 }
