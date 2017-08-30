@@ -1,32 +1,32 @@
 {
   "categories": [
+      {
+            "id": 1,
+            "name": "Adultos",
+            "slug": "adultos",
+            "position": 1,
+            "icon":"adultos"
+        },
         {
             "id": 2,
             "name": "Niño",
             "slug": "nino",
-            "position": 1,
+            "position": 2,
             "icon":"ninos"
         },
         {
             "id": 3,
             "name": "Hogar",
             "slug": "hogar",
-            "position": 2,
+            "position": 3,
             "icon":"hogar"
         },
         {
             "id": 4,
             "name": "Otro",
             "slug": "otro",
-            "position": 3,
-            "icon":"otros"
-        },
-        {
-            "id": 1,
-            "name": "Adultos",
-            "slug": "adultos",
             "position": 4,
-            "icon":"adultos"
+            "icon":"otros"
         }
     ],
   "products": [
@@ -73,6 +73,127 @@
             "available": true,
             "position": 4,
             "thumb":"a1"
+        },
+        {
+            "id": 5,
+            "category_id": 2,
+            "name": "Camisa",
+            "price": 1000,
+            "discount": null,
+            "discount_price": null,
+            "available": true,
+            "position": 1,
+            "thumb":"b1"
+        },
+        {
+            "id": 6,
+            "category_id": 2,
+            "name": "Polera",
+            "price": 800,
+            "discount": "10.0",
+            "discount_price": 720,
+            "available": true,
+            "position": 2,
+            "thumb":"b2"
+        },
+        {
+            "id": 7,
+            "category_id": 2,
+            "name": "Jeans",
+            "price": 1200,
+            "discount": null,
+            "discount_price": null,
+            "available": true,
+            "position": 3,
+            "thumb":"b3"
+        },
+        {
+            "id": 8,
+            "category_id": 3,
+            "name": "Pack x5 Camisas",
+            "price": 5000,
+            "discount": "25.0",
+            "discount_price": 3750,
+            "available": true,
+            "position": 4,
+            "thumb":"h1"
+        },
+        {
+            "id": 9,
+            "category_id": 3,
+            "name": "Camisa",
+            "price": 1000,
+            "discount": null,
+            "discount_price": null,
+            "available": true,
+            "position": 1,
+            "thumb":"h2"
+        },
+        {
+            "id": 10,
+            "category_id": 3,
+            "name": "Polera",
+            "price": 800,
+            "discount": "10.0",
+            "discount_price": 720,
+            "available": true,
+            "position": 2,
+            "thumb":"h3"
+        },
+        {
+            "id": 11,
+            "category_id": 3,
+            "name": "Jeans",
+            "price": 1200,
+            "discount": null,
+            "discount_price": null,
+            "available": true,
+            "position": 3,
+            "thumb":"h1"
+        },
+        {
+            "id": 12,
+            "category_id": 4,
+            "name": "Pack x5 Camisas",
+            "price": 5000,
+            "discount": "25.0",
+            "discount_price": 3750,
+            "available": true,
+            "position": 4,
+            "thumb":"o1"
+        },
+        {
+            "id": 13,
+            "category_id": 4,
+            "name": "Polera",
+            "price": 800,
+            "discount": "10.0",
+            "discount_price": 720,
+            "available": true,
+            "position": 2,
+            "thumb":"o2"
+        },
+        {
+            "id": 14,
+            "category_id": 4,
+            "name": "Jeans",
+            "price": 1200,
+            "discount": null,
+            "discount_price": null,
+            "available": true,
+            "position": 3,
+            "thumb":"o3"
+        },
+        {
+            "id": 15,
+            "category_id": 4,
+            "name": "Pack x5 Camisas",
+            "price": 5000,
+            "discount": "25.0",
+            "discount_price": 3750,
+            "available": true,
+            "position": 4,
+            "thumb":"o1"
         }
     ]
 }
