@@ -5,28 +5,28 @@
             "name": "Niño",
             "slug": "nino",
             "position": 1,
-            "icon":""
+            "icon":"niños"
         },
         {
             "id": 3,
             "name": "Hogar",
             "slug": "hogar",
             "position": 2,
-            "icon":""
+            "icon":"hogar"
         },
         {
             "id": 4,
             "name": "Otro",
             "slug": "otro",
             "position": 3,
-            "icon":""
+            "icon":"otros"
         },
         {
             "id": 1,
             "name": "Adultos",
             "slug": "adultos",
             "position": 4,
-            "icon":""
+            "icon":"adultos"
         }
     ],
   "products": [
