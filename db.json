@@ -5,28 +5,32 @@
             "name": "Jose",
             "last_name": "Perez",
             "job": "",
-            "op":"Admin"
+            "op":"Admin",
+            "avatar":""
         },
         {
             "id": 2,
             "name": "Maria",
             "last_name": "Hernandez",
             "job": "",
-            "op":""
+            "op":"",
+            "avatar":""
         },
         {
             "id": 3,
             "name": "Pedro",
             "last_name": "Perez",
             "job": "",
-            "op":""
+            "op":"",
+            "avatar":""
         },
         {
             "id": 4,
             "name": "Alejandra",
             "last_name": "Tovar",
             "job": "",
-            "op":""
+            "op":"",
+            "avatar":""
         }
     ]
 }
