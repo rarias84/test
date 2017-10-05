@@ -1,215 +1,32 @@
 {
-  "categories": [
+  "person": [
       {
             "id": 1,
-            "name": "Adultos",
-            "slug": "adultos",
-            "position": 1,
-            "icon":"adultos"
+            "name": "Jose",
+            "last_name": "Perez",
+            "job": "",
+            "op":"Admin"
         },
         {
             "id": 2,
-            "name": "Niño",
-            "slug": "nino",
-            "position": 2,
-            "icon":"ninos"
+            "name": "Maria",
+            "last_name": "Hernandez",
+            "job": "",
+            "op":""
         },
         {
             "id": 3,
-            "name": "Hogar",
-            "slug": "hogar",
-            "position": 3,
-            "icon":"hogar"
+            "name": "Pedro",
+            "last_name": "Perez",
+            "job": "",
+            "op":""
         },
         {
             "id": 4,
-            "name": "Otro",
-            "slug": "otro",
-            "position": 4,
-            "icon":"otros"
+            "name": "Alejandra",
+            "last_name": "Tovar",
+            "job": "",
+            "op":""
         }
-    ],
-  "products": [
-        {
-            "id": 1,
-            "category_id": 1,
-            "name": "Camisa",
-            "price": 1000,
-            "discount": null,
-            "discount_price": null,
-            "available": true,
-            "position": 1,
-            "thumb":"a1"
-        },
-        {
-            "id": 2,
-            "category_id": 1,
-            "name": "Polera",
-            "price": 800,
-            "discount": "10.0",
-            "discount_price": 720,
-            "available": true,
-            "position": 2,
-            "thumb":"a2"
-        },
-        {
-            "id": 3,
-            "category_id": 1,
-            "name": "Jeans",
-            "price": 1200,
-            "discount": null,
-            "discount_price": null,
-            "available": true,
-            "position": 3,
-            "thumb":"a3"
-        },
-        {
-            "id": 4,
-            "category_id": 1,
-            "name": "Pack x5 Camisas",
-            "price": 5000,
-            "discount": "25.0",
-            "discount_price": 3750,
-            "available": true,
-            "position": 4,
-            "thumb":"a1"
-        },
-        {
-            "id": 5,
-            "category_id": 2,
-            "name": "Camisa",
-            "price": 1000,
-            "discount": null,
-            "discount_price": null,
-            "available": true,
-            "position": 1,
-            "thumb":"b1"
-        },
-        {
-            "id": 6,
-            "category_id": 2,
-            "name": "Polera",
-            "price": 800,
-            "discount": "10.0",
-            "discount_price": 720,
-            "available": true,
-            "position": 2,
-            "thumb":"b2"
-        },
-        {
-            "id": 7,
-            "category_id": 2,
-            "name": "Jeans",
-            "price": 1200,
-            "discount": null,
-            "discount_price": null,
-            "available": true,
-            "position": 3,
-            "thumb":"b3"
-        },
-        {
-            "id": 8,
-            "category_id": 3,
-            "name": "Pack x5 Camisas",
-            "price": 5000,
-            "discount": "25.0",
-            "discount_price": 3750,
-            "available": true,
-            "position": 4,
-            "thumb":"h1"
-        },
-        {
-            "id": 9,
-            "category_id": 3,
-            "name": "Camisa",
-            "price": 1000,
-            "discount": null,
-            "discount_price": null,
-            "available": true,
-            "position": 1,
-            "thumb":"h2"
-        },
-        {
-            "id": 10,
-            "category_id": 3,
-            "name": "Polera",
-            "price": 800,
-            "discount": "10.0",
-            "discount_price": 720,
-            "available": true,
-            "position": 2,
-            "thumb":"h3"
-        },
-        {
-            "id": 11,
-            "category_id": 3,
-            "name": "Jeans",
-            "price": 1200,
-            "discount": null,
-            "discount_price": null,
-            "available": true,
-            "position": 3,
-            "thumb":"h1"
-        },
-        {
-            "id": 12,
-            "category_id": 4,
-            "name": "Pack x5 Camisas",
-            "price": 5000,
-            "discount": "25.0",
-            "discount_price": 3750,
-            "available": true,
-            "position": 4,
-            "thumb":"o1"
-        },
-        {
-            "id": 13,
-            "category_id": 4,
-            "name": "Polera",
-            "price": 800,
-            "discount": "10.0",
-            "discount_price": 720,
-            "available": true,
-            "position": 2,
-            "thumb":"o2"
-        },
-        {
-            "id": 14,
-            "category_id": 4,
-            "name": "Jeans",
-            "price": 1200,
-            "discount": null,
-            "discount_price": null,
-            "available": true,
-            "position": 3,
-            "thumb":"o3"
-        },
-        {
-            "id": 15,
-            "category_id": 4,
-            "name": "Pack x5 Camisas",
-            "price": 5000,
-            "discount": "25.0",
-            "discount_price": 3750,
-            "available": true,
-            "position": 4,
-            "thumb":"o1"
-        }
-    ],
-    "order" : [
-      {
-          "id":32423,
-          "status":"Entregado",
-          "date_start":"31/11/2017",
-          "date_end":"02/12/2017",
-          "amount":8000
-      },
-      {
-         "id":12323,
-          "status":"Entregado",
-          "date_start":"31/11/2017",
-          "date_end":"02/12/2017",
-          "amount":10000
-      }
     ]
 }
